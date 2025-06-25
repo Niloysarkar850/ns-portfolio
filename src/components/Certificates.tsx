@@ -14,7 +14,7 @@ export const Certificates = () => {
       description: "Fundamentals of cloud computing and AWS services",
       imageUrl: "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=400&h=300&fit=crop",
       downloadUrl: "https://drive.google.com/file/d/1ZXAnenOe4JKn0n2yAJSIs-0KM77UqG9B/view?usp=sharing",
-      verifyUrl: "#"
+      verifyUrl: "https://drive.google.com/file/d/1ZXAnenOe4JKn0n2yAJSIs-0KM77UqG9B/view?usp=sharing"
     },
     {
       title: "Core Java Certification",
